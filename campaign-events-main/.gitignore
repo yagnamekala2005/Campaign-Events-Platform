@@ -1,0 +1,15 @@
+# Go build artifacts
+*.exe
+*.test
+*.out
+
+# Temporary output and logs
+actual.txt
+race.txt
+race-output.txt
+*.log
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
